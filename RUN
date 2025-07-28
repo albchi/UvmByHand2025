@@ -1,0 +1,2 @@
+compile : -debug_all
+run : +UVM_VERBOSITY=UMV_HIGH
